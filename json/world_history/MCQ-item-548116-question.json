@@ -1,0 +1,144 @@
+{
+  "optional": true,
+  "alphabetize": true,
+  "question": {
+      "content": [
+          {
+              "content": [
+                  {
+                      "text": "Which of the following most clearly reflects the use of Darwin\u2019s theories by European intellectuals and politicians?",
+                      "type": "text"
+                  }
+              ],
+              "type": "paragraph"
+          }
+      ],
+      "type": "doc"
+  },
+  "answers": [
+      {
+          "@correct": false,
+          "@feedback": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "Incorrect.The chronology, since Darwin\u2019s theories developed in the 19th century CE and the Enlightenment occurred during the 17th and 18th centuries CE.",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          },
+          "description": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "Enlightenment thinkers used the theories to develop the scientific fields of botany and zoology during the Scientific Revolution.",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          }
+      },
+      {
+          "@correct": false,
+          "@feedback": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "Incorrect. The Russian intellectuals who argued for Pan-Slavism did so on the basis of cultural and linguistic grounds rather than biological or racial grounds. ",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          },
+          "description": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "Russian reformers used the theories to argue for the unification of Slavic peoples under the Russian state, based on the shared cultural heritage of Slavic-language speakers.",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          }
+      },
+      {
+          "@correct": true,
+          "@feedback": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "Correct. Europeans such as Social Darwinists used the concepts of evolution and natural selection to develop new perceptions of race, which justified wars of imperial conquest in Africa and Asia. ",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          },
+          "description": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "Government leaders used the theories, as well as new racial ideologies, to justify imperialism and the subjugation of native populations.",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          }
+      },
+      {
+          "@correct": false,
+          "@feedback": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "Incorrect. Darwin characterized the competition between species and individuals as of a biological nature rather than of a class nature, so it is unlikely that socialists adapted his theories to their purposes in such a direct way as imperialists did. ",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          },
+          "description": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "European socialists used the theories to portray the struggle between working classes and industrialists as a necessary stage in the development of an egalitarian society.",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          }
+      }
+  ]
+}
