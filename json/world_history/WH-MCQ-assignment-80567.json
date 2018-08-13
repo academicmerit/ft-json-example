@@ -1,0 +1,934 @@
+{
+    "548114": {
+        "calculator_section": false,
+        "content": {
+            "items": [
+                {
+                    "questions": [
+                        {
+                            "content": {
+                                "id": 548116
+                            },
+                            "id": 548116,
+                            "type": "special/embed"
+                        },
+                        {
+                            "content": {
+                                "id": 548117
+                            },
+                            "id": 548117,
+                            "type": "special/embed"
+                        },
+                        {
+                            "content": {
+                                "id": 548118
+                            },
+                            "id": 548118,
+                            "type": "special/embed"
+                        }
+                    ],
+                    "stimulus": {
+                        "content": {
+                            "id": 548115
+                        },
+                        "id": 548115,
+                        "type": "special/embed"
+                    },
+                    "type": null
+                }
+            ]
+        },
+        "created": "2017-06-27T02:52:00",
+        "id": 548114,
+        "item_id": 548114,
+        "meta": {
+            "embedded_items": [
+                548115,
+                548116,
+                548117,
+                548118
+            ]
+        },
+        "rev_id": 0,
+        "status": "published",
+        "title": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "6.1: CCOT: Influence of Science",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "doc"
+        },
+        "type": "composite/quiz",
+        "updated": "2017-09-21T05:16:39"
+    },
+    "548115": {
+        "calculator_section": false,
+        "content": {
+            "text": {
+                "content": [
+                    {
+                        "content": [
+                            {
+                                "text": "Use the following excerpts to answer questions 1-3.",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "This preservation of favourable individual differences and variations, and the destruction of those which are injurious, I have called Natural Selection, or the Survival of the Fittest. . . .",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "text": "Natural selection acts solely through the preservation of variations in some way advantageous, which consequently endure. Owing to the high geometrical rate of increase of all organic beings, each area is already fully stocked with inhabitants; and it follows from this, that as the favored forms increase in number, so, generally, will the less favored decrease and become rare. Rarity, as geology tells us, is the precursor to extinction.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "blockquote"
+                    },
+                    {
+                        "content": [
+                            {
+                                "text": "\u2014 Charles Darwin, scientist,",
+                                "type": "text"
+                            },
+                            {
+                                "marks": [
+                                    {
+                                        "_": "em"
+                                    }
+                                ],
+                                "text": " The Origin of Species, ",
+                                "type": "text"
+                            },
+                            {
+                                "text": "published in",
+                                "type": "text"
+                            },
+                            {
+                                "marks": [
+                                    {
+                                        "_": "em"
+                                    }
+                                ],
+                                "text": " ",
+                                "type": "text"
+                            },
+                            {
+                                "text": "1872",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "The main conclusion here arrived at, and now held by many naturalists who are well competent to form a sound judgment, is that man is descended from some less highly organized form. The grounds upon which this conclusion rests will never be shaken, for the close similarity between man and the lower animals in embryonic development, as well as in innumerable points of structure and constitution, both of high and of the most trifling importance\u2014the rudiments which he retains, and the abnormal reversions to which he is occasionally liable\u2014are facts which cannot be disputed. . . .",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "text": "We have seen that man incessantly presents individual differences in all parts of his body and in his mental faculties. These differences or variations seem to be induced by the same general causes, and to obey the same laws as with the lower animals. In both cases similar laws of inheritance prevail. Man tends to increase at a greater rate than his means of subsistence; consequently he is occasionally subjected to a severe struggle for existence . . . ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "blockquote"
+                    },
+                    {
+                        "content": [
+                            {
+                                "text": "\u2014 Charles Darwin, scientist,",
+                                "type": "text"
+                            },
+                            {
+                                "marks": [
+                                    {
+                                        "_": "em"
+                                    }
+                                ],
+                                "text": " The Descent of Man, ",
+                                "type": "text"
+                            },
+                            {
+                                "text": "published in",
+                                "type": "text"
+                            },
+                            {
+                                "marks": [
+                                    {
+                                        "_": "em"
+                                    }
+                                ],
+                                "text": " ",
+                                "type": "text"
+                            },
+                            {
+                                "text": "1883",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    }
+                ],
+                "type": "doc"
+            }
+        },
+        "created": "2017-06-27T02:54:09",
+        "id": 548115,
+        "item_id": 548115,
+        "meta": {},
+        "related_content": [],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [],
+        "title": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "CCOT: Influence of Science - Passage ",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "doc"
+        },
+        "type": "media/rich_text",
+        "updated": "2017-07-07T16:02:44"
+    },
+    "548116": {
+        "calculator_section": false,
+        "content": {
+            "alphabetize": true,
+            "answers": [
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect.The chronology, since Darwin\u2019s theories developed in the 19th century CE and the Enlightenment occurred during the 17th and 18th centuries CE.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Enlightenment thinkers used the theories to develop the scientific fields of botany and zoology during the Scientific Revolution.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect. The Russian intellectuals who argued for Pan-Slavism did so on the basis of cultural and linguistic grounds rather than biological or racial grounds. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Russian reformers used the theories to argue for the unification of Slavic peoples under the Russian state, based on the shared cultural heritage of Slavic-language speakers.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": true,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Correct. Europeans such as Social Darwinists used the concepts of evolution and natural selection to develop new perceptions of race, which justified wars of imperial conquest in Africa and Asia. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Government leaders used the theories, as well as new racial ideologies, to justify imperialism and the subjugation of native populations.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect. Darwin characterized the competition between species and individuals as of a biological nature rather than of a class nature, so it is unlikely that socialists adapted his theories to their purposes in such a direct way as imperialists did. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "European socialists used the theories to portray the struggle between working classes and industrialists as a necessary stage in the development of an egalitarian society.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                }
+            ],
+            "optional": true,
+            "question": {
+                "content": [
+                    {
+                        "content": [
+                            {
+                                "text": "Which of the following most clearly reflects the use of Darwin\u2019s theories by European intellectuals and politicians?",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    }
+                ],
+                "type": "doc"
+            }
+        },
+        "created": "2017-06-27T02:58:38",
+        "id": 548116,
+        "item_id": 548116,
+        "meta": {
+            "uploaded": {
+                "AP College & Career Readiness Skill": "2018-AP-World-History-General-AP-College-&-Career-Readiness-Skill-Readiness-Skill-5:-Analyzes-Written-Texts",
+                "Assessment Type": "2018-AP-World-History-General-Assessment-Type-Focus-Quiz",
+                "Depth of Knowledge": "2018-AP-World-History-General-Depth-of-Knowledge-Level-2---Skills-and-Concepts",
+                "Key Concept": [
+                    "2018-AP-World-History-Framework--18.wohi.3.4.1",
+                    "2018-AP-World-History-Framework--18.wohi.3.4.2"
+                ],
+                "Period": "2018-AP-World-History-Framework--18.wohi.3.4",
+                "Practices and Skills": [
+                    "2018-AP-World-History-Framework--18.wohi.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.1.5"
+                ],
+                "Question Number": "1",
+                "Question Type": "2018-AP-World-History-Subject-Question-Type-MC",
+                "Stimulus Difficulty": "2018-AP-World-History-Subject-Stimulus-Difficulty-Challenging",
+                "Stimulus Type": "2018-AP-World-History-Subject-Stimulus-Type-Primary-Source-Text",
+                "Sub-Practice": "2018-AP-World-History-Subject-Sub-Practice-Practice-1.A:-Describes-historically-relevant-information-and/or-arguments-within-a-p",
+                "Sub-Skill": "2018-AP-World-History-Subject-Sub-Skill-Skill-4.C:-Explains-the-historical-significance-of-specific-historical-developments-in-r",
+                "Subunit": "2018-AP-World-History-Subject-Subunit-6.1:-Influence-of-Science-on-Ideologies-about-Class,-Gender,-and-Race",
+                "Subunit Number": "2018-AP-World-History-Framework-Subunit-Tag-67",
+                "Thematic Learning Objectives": [
+                    "2018-AP-World-History-Framework--18.wohi.0.4.4",
+                    "2018-AP-World-History-Framework--18.wohi.0.4.0"
+                ],
+                "Thinking Skills": "2018-AP-World-History-General-Thinking-Skills-Thinking-Skill-5:-Analyzes-Patterns-and-Creates-Generalizations",
+                "Unit": "2018-AP-World-History-Framework--18.wohi.2.5"
+            }
+        },
+        "related_content": [
+            {
+                "children": [
+                    {
+                        "description": "Practice 1: Analyzing Historical Evidence",
+                        "id": 100349,
+                        "title": "Practice 1"
+                    },
+                    {
+                        "description": "Skill 4: Continuity and Change Over Time",
+                        "id": 100354,
+                        "title": "Skill 4"
+                    }
+                ],
+                "title": "Practices and Skills"
+            },
+            {
+                "children": [
+                    {
+                        "description": "SOC-5: Explain how social categories, roles, and practices have been maintained or challenged over time.",
+                        "id": 100346,
+                        "title": "SOC-5"
+                    },
+                    {
+                        "description": "SOC-1: Explain how distinctions based on kinship, ethnicity, class, gender, and race influenced the development and transformations of social hierarchies.",
+                        "id": 100342,
+                        "title": "SOC-1"
+                    }
+                ],
+                "title": "Thematic Learning Objectives"
+            }
+        ],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [
+            "6.1"
+        ],
+        "title": "1: CCOT: Influence of Science",
+        "type": "questions/multiple_choice",
+        "updated": "2017-07-07T16:02:44"
+    },
+    "548117": {
+        "calculator_section": false,
+        "content": {
+            "alphabetize": true,
+            "answers": [
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect. Such a worldview did not necessarily support European claims to racial superiority. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "European intellectuals proposed that the natural world could be most understood through the process of scientific inquiry unimpeded by religious doctrine.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect. The contention that market competition produced disparities of wealth that aligned with personal and moral worth did not require Darwinian explanations and instead represented arguments deriving from ",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "em"
+                                            }
+                                        ],
+                                        "text": "laissez-faire",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": " economic theory, which predated Darwin\u2019s writings. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "European industrialists claimed that their ownership of factories and resources derived from the natural consequences of market competition.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": true,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Correct. Darwin\u2019s theories argued that each species, including different variations within the human species, adapted to fit its own particular niche, and that some natural variations were more beneficial than others. While this did not necessarily imply superiority, some Europeans concluded that advantages recently acquired in scientific knowledge, technology, and productivity proved that Europeans were racially superior and more highly evolved than other peoples. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "European scientists argued that different racial categories represented distinct stages in the process of human evolution and that Caucasians stood at the pinnacle of a racial hierarchy.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect. The contention that all humans possess universal rights represented an argument derived from the Enlightenment, which predated Darwin\u2019s writings, and that this contention provided a logic for resistance to social theorists\u2019 claims of superiority. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "European political thinkers contended that slavery was immoral and unjust because all humans possess universal rights.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                }
+            ],
+            "optional": true,
+            "question": {
+                "content": [
+                    {
+                        "content": [
+                            {
+                                "text": "Which of the following ",
+                                "type": "text"
+                            },
+                            {
+                                "marks": [
+                                    {
+                                        "_": "strong"
+                                    }
+                                ],
+                                "text": "best ",
+                                "type": "text"
+                            },
+                            {
+                                "text": "explains how Darwin\u2019s theories were used by social theorists to legitimize claims that Europeans and their descendants were superior to people from other continents?",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    }
+                ],
+                "type": "doc"
+            }
+        },
+        "created": "2017-06-27T03:02:58",
+        "id": 548117,
+        "item_id": 548117,
+        "meta": {
+            "uploaded": {
+                "AP College & Career Readiness Skill": "2018-AP-World-History-General-AP-College-&-Career-Readiness-Skill-Readiness-Skill-5:-Analyzes-Written-Texts",
+                "Assessment Type": "2018-AP-World-History-General-Assessment-Type-Focus-Quiz",
+                "Depth of Knowledge": "2018-AP-World-History-General-Depth-of-Knowledge-Level-2---Skills-and-Concepts",
+                "Key Concept": [
+                    "2018-AP-World-History-Framework--18.wohi.3.4.1",
+                    "2018-AP-World-History-Framework--18.wohi.3.4.2"
+                ],
+                "Period": "2018-AP-World-History-Framework--18.wohi.3.4",
+                "Practices and Skills": [
+                    "2018-AP-World-History-Framework--18.wohi.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.1.5"
+                ],
+                "Question Number": "2",
+                "Question Type": "2018-AP-World-History-Subject-Question-Type-MC",
+                "Stimulus Difficulty": "2018-AP-World-History-Subject-Stimulus-Difficulty-Challenging",
+                "Stimulus Type": "2018-AP-World-History-Subject-Stimulus-Type-Primary-Source-Text",
+                "Sub-Practice": "2018-AP-World-History-Subject-Sub-Practice-Practice-1.A:-Describes-historically-relevant-information-and/or-arguments-within-a-p",
+                "Sub-Skill": "2018-AP-World-History-Subject-Sub-Skill-Skill-4.C:-Explains-the-historical-significance-of-specific-historical-developments-in-r",
+                "Subunit": "2018-AP-World-History-Subject-Subunit-6.1:-Influence-of-Science-on-Ideologies-about-Class,-Gender,-and-Race",
+                "Subunit Number": "2018-AP-World-History-Framework-Subunit-Tag-67",
+                "Thematic Learning Objectives": [
+                    "2018-AP-World-History-Framework--18.wohi.0.4.4",
+                    "2018-AP-World-History-Framework--18.wohi.0.4.0"
+                ],
+                "Thinking Skills": "2018-AP-World-History-General-Thinking-Skills-Thinking-Skill-5:-Analyzes-Patterns-and-Creates-Generalizations",
+                "Unit": "2018-AP-World-History-Framework--18.wohi.2.5"
+            }
+        },
+        "related_content": [
+            {
+                "children": [
+                    {
+                        "description": "Practice 1: Analyzing Historical Evidence",
+                        "id": 100349,
+                        "title": "Practice 1"
+                    },
+                    {
+                        "description": "Skill 4: Continuity and Change Over Time",
+                        "id": 100354,
+                        "title": "Skill 4"
+                    }
+                ],
+                "title": "Practices and Skills"
+            },
+            {
+                "children": [
+                    {
+                        "description": "SOC-5: Explain how social categories, roles, and practices have been maintained or challenged over time.",
+                        "id": 100346,
+                        "title": "SOC-5"
+                    },
+                    {
+                        "description": "SOC-1: Explain how distinctions based on kinship, ethnicity, class, gender, and race influenced the development and transformations of social hierarchies.",
+                        "id": 100342,
+                        "title": "SOC-1"
+                    }
+                ],
+                "title": "Thematic Learning Objectives"
+            }
+        ],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [
+            "6.1"
+        ],
+        "title": "2: CCOT: Influence of Science",
+        "type": "questions/multiple_choice",
+        "updated": "2017-07-07T16:02:44"
+    },
+    "548118": {
+        "calculator_section": false,
+        "content": {
+            "alphabetize": true,
+            "answers": [
+                {
+                    "@correct": true,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Correct. Europeans who adapted Darwin\u2019s theories as justification for imperialism argued that races are inherently unequal in abilities and that races with superior traits dominate those with inferior inheritance. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Darwin\u2019s conclusion that variations of inheritance help some animals be more adaptable than others.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect. Although Europeans who used Darwin\u2019s theories as justification for imperialism accepted the concept of extinction, most argued that a colonial takeover would protect African and Asian populations under benevolent European rule. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Darwin\u2019s argument that an increase in physically stronger animals generally leads to the extinction of physically weaker animals.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect. Darwin\u2019s wider theory of evolution does not support the rationale for imperialism because it does not necessarily imply superiority, and that European conclusions of racial superiority relied instead on the belief that advantages recently acquired in scientific knowledge, technology, and productivity represented evidence that they were more highly evolved than other peoples. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Darwin\u2019s conclusion that humans are ordinary products of nature and descended from simpler forms of life.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                },
+                {
+                    "@correct": false,
+                    "@feedback": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Incorrect. While Europeans who used Darwin\u2019s theories as justification for imperialism accepted the logic of scarcity, they contended that Europeans were already more highly evolved than their subjects and consequently were the justifiable winners in such a struggle for resources. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "Darwin\u2019s argument that scarcity inevitably leads to a struggle for resources.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    }
+                }
+            ],
+            "optional": true,
+            "question": {
+                "content": [
+                    {
+                        "content": [
+                            {
+                                "text": "Based on the excerpts and your knowledge of world history, which of the following was ",
+                                "type": "text"
+                            },
+                            {
+                                "marks": [
+                                    {
+                                        "_": "strong"
+                                    }
+                                ],
+                                "text": "most",
+                                "type": "text"
+                            },
+                            {
+                                "text": " likely used to sustain European attitudes toward non-Europeans during the Age of Imperialism?",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    }
+                ],
+                "type": "doc"
+            }
+        },
+        "created": "2017-06-27T03:07:34",
+        "id": 548118,
+        "item_id": 548118,
+        "meta": {
+            "uploaded": {
+                "AP College & Career Readiness Skill": "2018-AP-World-History-General-AP-College-&-Career-Readiness-Skill-Readiness-Skill-5:-Analyzes-Written-Texts",
+                "Assessment Type": "2018-AP-World-History-General-Assessment-Type-Focus-Quiz",
+                "Depth of Knowledge": "2018-AP-World-History-General-Depth-of-Knowledge-Level-2---Skills-and-Concepts",
+                "Key Concept": [
+                    "2018-AP-World-History-Framework--18.wohi.3.4.1",
+                    "2018-AP-World-History-Framework--18.wohi.3.4.2"
+                ],
+                "Period": "2018-AP-World-History-Framework--18.wohi.3.4",
+                "Practices and Skills": [
+                    "2018-AP-World-History-Framework--18.wohi.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.1.5"
+                ],
+                "Question Number": "3",
+                "Question Type": "2018-AP-World-History-Subject-Question-Type-MC",
+                "Stimulus Difficulty": "2018-AP-World-History-Subject-Stimulus-Difficulty-Challenging",
+                "Stimulus Type": "2018-AP-World-History-Subject-Stimulus-Type-Primary-Source-Text",
+                "Sub-Practice": "2018-AP-World-History-Subject-Sub-Practice-Practice-1.A:-Describes-historically-relevant-information-and/or-arguments-within-a-p",
+                "Sub-Skill": "2018-AP-World-History-Subject-Sub-Skill-Skill-4.C:-Explains-the-historical-significance-of-specific-historical-developments-in-r",
+                "Subunit": "2018-AP-World-History-Subject-Subunit-6.1:-Influence-of-Science-on-Ideologies-about-Class,-Gender,-and-Race",
+                "Subunit Number": "2018-AP-World-History-Framework-Subunit-Tag-67",
+                "Thematic Learning Objectives": [
+                    "2018-AP-World-History-Framework--18.wohi.0.4.4",
+                    "2018-AP-World-History-Framework--18.wohi.0.4.0"
+                ],
+                "Thinking Skills": "2018-AP-World-History-General-Thinking-Skills-Thinking-Skill-5:-Analyzes-Patterns-and-Creates-Generalizations",
+                "Unit": "2018-AP-World-History-Framework--18.wohi.2.5"
+            }
+        },
+        "related_content": [
+            {
+                "children": [
+                    {
+                        "description": "Practice 1: Analyzing Historical Evidence",
+                        "id": 100349,
+                        "title": "Practice 1"
+                    },
+                    {
+                        "description": "Skill 4: Continuity and Change Over Time",
+                        "id": 100354,
+                        "title": "Skill 4"
+                    }
+                ],
+                "title": "Practices and Skills"
+            },
+            {
+                "children": [
+                    {
+                        "description": "SOC-5: Explain how social categories, roles, and practices have been maintained or challenged over time.",
+                        "id": 100346,
+                        "title": "SOC-5"
+                    },
+                    {
+                        "description": "SOC-1: Explain how distinctions based on kinship, ethnicity, class, gender, and race influenced the development and transformations of social hierarchies.",
+                        "id": 100342,
+                        "title": "SOC-1"
+                    }
+                ],
+                "title": "Thematic Learning Objectives"
+            }
+        ],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [
+            "6.1"
+        ],
+        "title": "3: CCOT: Influence of Science",
+        "type": "questions/multiple_choice",
+        "updated": "2017-07-07T16:02:44"
+    },
+    "_root_id": 548114
+}
