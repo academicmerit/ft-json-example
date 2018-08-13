@@ -1,0 +1,130 @@
+{
+  "text": {
+      "content": [
+          {
+              "content": [
+                  {
+                      "text": "Use the following passages to answer all parts of question 14.",
+                      "type": "text"
+                  }
+              ],
+              "type": "paragraph"
+          },
+          {
+              "content": [
+                  {
+                      "text": "Source 1",
+                      "type": "text",
+                      "marks": [
+                          {
+                              "_": "strong"
+                          }
+                      ]
+                  }
+              ],
+              "type": "paragraph"
+          },
+          {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "I was in great distress because the regular Nile flood had not happened in the past seven years. So I asked my most knowledgeable chief minister which god is worshipped at the source of the Nile. Having consulted the sacred magic books and having inquired with the priests of Thoth, god of knowledge, the minister informed me that Khnum was the god in control of the source of the Nile.",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "blockquote"
+          },
+          {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "That night in my sleep, I saw the god Khnum standing over me. I prayed to him in his presence and he spoke to me thus: \u2018When the Nile waters are introduced in the fields, they give life to every seed, like the introduction of life into a soul. Know that from now on the Nile flood will come for you every year without fail. Irrigation canals will be full, plants will grow, bowing down under their fruit. The starvation years will be gone.\u2019",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  },
+                  {
+                      "content": [
+                          {
+                              "text": "Then I awoke and drafted this decree pledging to build a temple to Khnum. ",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "blockquote"
+          },
+          {
+              "content": [
+                  {
+                      "text": "\u2014 Decree for the establishment of a temple by Egyptian pharaoh Djoser, circa 2800 B.C.E.",
+                      "type": "text"
+                  }
+              ],
+              "type": "paragraph"
+          },
+          {
+              "type": "paragraph"
+          },
+          {
+              "content": [
+                  {
+                      "text": "Source 2",
+                      "type": "text",
+                      "marks": [
+                          {
+                              "_": "strong"
+                          }
+                      ]
+                  }
+              ],
+              "type": "paragraph"
+          },
+          {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "For as long as anyone can remember, the head boatman used the boats in his charge for his own benefit. The head shepherd milked the sheep in his charge for his own benefit. The temple priest measured out the barley tax collected for the temple to his own advantage. A priest or a nobleman could cut a tree or carry away its fruit from the garden of a humble person without fear of punishment. Such were the practices of the former days. ",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "blockquote"
+          },
+          {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "But when the god Ningirsu elevated me to the kingship of the city of Lagash, he bid me to restore the divinely decreed order. I carried the god\u2019s instructions faithfully. I removed the head boatman and head shepherd from their posts. I forbade the priests from cheating in the collection of temple taxes. I decreed that no priests or official can force anyone to surrender their property to them. Thus I established freedom for the inhabitants of Lagash. The widow and the orphan were no longer at the mercy of the powerful man. It was for them that I made my agreement with the god Ningirsu.  ",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "blockquote"
+          },
+          {
+              "content": [
+                  {
+                      "text": "\u2014 Stone inscription from the Sumerian city of Lagash, commissioned by king Urukagina, circa 2400 B.C.E.",
+                      "type": "text"
+                  }
+              ],
+              "type": "paragraph"
+          }
+      ],
+      "type": "doc"
+  }
+}
