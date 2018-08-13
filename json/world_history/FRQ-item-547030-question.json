@@ -1,0 +1,373 @@
+{
+  "scoring": [
+      {
+          "title": "Part A",
+          "description": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "1 point for describing one similarity between the notions of kingship expressed in the two passages ",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  },
+                  {
+                      "type": "paragraph"
+                  },
+                  {
+                      "content": [
+                          {
+                              "text": "Examples of responses to part A that would earn credit",
+                              "type": "text",
+                              "marks": [
+                                  {
+                                      "_": "strong"
+                                  }
+                              ]
+                          },
+                          {
+                              "text": ":",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  },
+                  {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "content": [
+                                          {
+                                              "text": "One similarity between notions of kingship expressed in the two passages is that both rulers indicate that their kingship is divinely favored and, in the Sumerian case, directly ordained by the gods.",
+                                              "type": "text"
+                                          }
+                                      ],
+                                      "type": "paragraph"
+                                  }
+                              ],
+                              "type": "list_item"
+                          },
+                          {
+                              "content": [
+                                  {
+                                      "content": [
+                                          {
+                                              "text": "One similarity between notions of kingship expressed in the two passages is that both rulers assert a paternalistic claim to power, in which the rulers use their connections to the gods to improve the lives of their subjects.",
+                                              "type": "text"
+                                          }
+                                      ],
+                                      "type": "paragraph"
+                                  }
+                              ],
+                              "type": "list_item"
+                          }
+                      ],
+                      "type": "bullet_list"
+                  }
+              ],
+              "type": "doc"
+          },
+          "scores": [
+              {
+                  "@feedback": {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "A zero point response suggests the student was not able to describe one similarity between the notions of kingship expressed in the two passages ",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "doc"
+                  }
+              },
+              {
+                  "@feedback": {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "A full credit response suggests the student was able to describe one similarity between the notions of kingship expressed in the two passages ",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "doc"
+                  }
+              }
+          ]
+      },
+      {
+          "title": "Part B",
+          "description": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "1 point for explaining one way in which the ideas expressed in the two passages contributed to political centralization in ancient states in Afro-Eurasia",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  },
+                  {
+                      "content": [
+                          {
+                              "text": "Examples of responses to part B that would earn credit",
+                              "type": "text",
+                              "marks": [
+                                  {
+                                      "_": "strong"
+                                  }
+                              ]
+                          },
+                          {
+                              "text": ":",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  },
+                  {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "content": [
+                                          {
+                                              "text": "The ideas expressed in the passages illustrate centralization in ancient Afro-Eurasian states by revealing how royal authorities utilized the idea of divine right to rule to justify making legal decrees without consulting the wider populace or even the nobility.",
+                                              "type": "text"
+                                          }
+                                      ],
+                                      "type": "paragraph"
+                                  }
+                              ],
+                              "type": "list_item"
+                          },
+                          {
+                              "content": [
+                                  {
+                                      "content": [
+                                          {
+                                              "text": "The ideas expressed in the passages illustrate centralization in ancient Afro-Eurasian states because they demonstrate how Afro-Eurasian rulers either used existing elites to consolidate the ruler\u2019s power (as in the case of Djoser\u2019s interactions with the priests of Thoth in Source 1) or limited the influence of elites to consolidate power in the monarch (as in the case of Urukagina\u2019s removal of various officials for alleged misdeeds in Source 2).",
+                                              "type": "text"
+                                          }
+                                      ],
+                                      "type": "paragraph"
+                                  }
+                              ],
+                              "type": "list_item"
+                          }
+                      ],
+                      "type": "bullet_list"
+                  }
+              ],
+              "type": "doc"
+          },
+          "scores": [
+              {
+                  "@feedback": {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "A zero point response suggests the student was not able to explain one way in which the ideas expressed in the two passages contributed to political centralization in ancient states in Afro-Eurasia ",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "doc"
+                  }
+              },
+              {
+                  "@feedback": {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "A full credit response suggests the student was able to explain one way in which the ideas expressed in the two passages contributed to political centralization in ancient states in Afro-Eurasia ",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "doc"
+                  }
+              }
+          ]
+      },
+      {
+          "title": "Part C",
+          "description": {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "text": "1 point for explaining one way in which the passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  },
+                  {
+                      "content": [
+                          {
+                              "text": "Examples of responses to part C that would earn credit",
+                              "type": "text",
+                              "marks": [
+                                  {
+                                      "_": "strong"
+                                  }
+                              ]
+                          },
+                          {
+                              "text": ":",
+                              "type": "text"
+                          }
+                      ],
+                      "type": "paragraph"
+                  },
+                  {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "content": [
+                                          {
+                                              "text": "The passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia because they illustrate how natural forces and government corruption and abuse could threaten the well-being of the state\u2019s population.",
+                                              "type": "text"
+                                          }
+                                      ],
+                                      "type": "paragraph"
+                                  }
+                              ],
+                              "type": "list_item"
+                          },
+                          {
+                              "content": [
+                                  {
+                                      "content": [
+                                          {
+                                              "text": "The passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia because they show that rulers were helpless against natural forces and often had to contend with powerful factions within the state that defied state wishes and tried to amass power and wealth for themselves.",
+                                              "type": "text"
+                                          }
+                                      ],
+                                      "type": "paragraph"
+                                  }
+                              ],
+                              "type": "list_item"
+                          }
+                      ],
+                      "type": "bullet_list"
+                  },
+                  {
+                      "type": "paragraph"
+                  }
+              ],
+              "type": "doc"
+          },
+          "scores": [
+              {
+                  "@feedback": {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "A zero point response suggests the student was not able to explain one way in which the passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia ",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "doc"
+                  }
+              },
+              {
+                  "@feedback": {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "A full credit response suggests the student was able to explain one way in which the passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia ",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "doc"
+                  }
+              }
+          ]
+      }
+  ],
+  "optional": true,
+  "prompt": {
+      "content": [
+          {
+              "content": [
+                  {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "Describe ONE similarity between the notions of kingship expressed in the two passages.",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "list_item"
+                  },
+                  {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "Explain ONE way in which the ideas expressed in the two passages contributed to political centralization in ancient states in Afro-Eurasia.",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "list_item"
+                  },
+                  {
+                      "content": [
+                          {
+                              "content": [
+                                  {
+                                      "text": "Explain ONE way in which the passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia.",
+                                      "type": "text"
+                                  }
+                              ],
+                              "type": "paragraph"
+                          }
+                      ],
+                      "type": "list_item"
+                  }
+              ],
+              "type": "lower_alpha_list",
+              "attrs": {
+                  "order": 1
+              }
+          }
+      ],
+      "type": "doc"
+  },
+  "answer_space": "medium"
+}
