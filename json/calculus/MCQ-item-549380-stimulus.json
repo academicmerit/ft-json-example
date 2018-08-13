@@ -1,0 +1,114 @@
+{
+  "text": {
+    "content": [
+      {
+        "content": [
+          {
+            "text": "The derivative of a function ",
+            "type": "text"
+          },
+          {
+            "text": "f",
+            "type": "text",
+            "marks": [
+              {
+                "_": "em"
+              }
+            ]
+          },
+          {
+            "text": " is given by ",
+            "type": "text"
+          },
+          {
+            "text": "f",
+            "type": "text",
+            "marks": [
+              {
+                "_": "em"
+              }
+            ]
+          },
+          {
+            "text": "'(",
+            "type": "text"
+          },
+          {
+            "text": "x",
+            "type": "text",
+            "marks": [
+              {
+                "_": "em"
+              }
+            ]
+          },
+          {
+            "text": ")=(",
+            "type": "text"
+          },
+          {
+            "text": "x",
+            "type": "text",
+            "marks": [
+              {
+                "_": "em"
+              }
+            ]
+          },
+          {
+            "text": "-3)e",
+            "type": "text"
+          },
+          {
+            "text": "x",
+            "type": "text",
+            "marks": [
+              {
+                "_": "sup"
+              }
+            ]
+          },
+          {
+            "text": " for ",
+            "type": "text"
+          },
+          {
+            "text": "x",
+            "type": "text",
+            "marks": [
+              {
+                "_": "em"
+              }
+            ]
+          },
+          {
+            "text": ">0, and ",
+            "type": "text"
+          },
+          {
+            "text": "f",
+            "type": "text",
+            "marks": [
+              {
+                "_": "em"
+              }
+            ]
+          },
+          {
+            "text": "(1)=7.\n",
+            "type": "text"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "text": " ",
+            "type": "text"
+          }
+        ],
+        "type": "paragraph"
+      }
+    ],
+    "type": "doc"
+  }
+}
