@@ -1,0 +1,2487 @@
+{
+    "547029": {
+        "calculator_section": false,
+        "content": {
+            "text": {
+                "content": [
+                    {
+                        "content": [
+                            {
+                                "text": "Use the following passages to answer all parts of this question.",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "marks": [
+                                    {
+                                        "_": "strong"
+                                    }
+                                ],
+                                "text": "Source 1",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "I was in great distress because the regular Nile flood had not happened in the past seven years. So I asked my most knowledgeable chief minister which god is worshipped at the source of the Nile. Having consulted the sacred magic books and having inquired with the priests of Thoth, god of knowledge, the minister informed me that Khnum was the god in control of the source of the Nile.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "blockquote"
+                    },
+                    {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "That night in my sleep, I saw the god Khnum standing over me. I prayed to him in his presence and he spoke to me thus: \u2018When the Nile waters are introduced in the fields, they give life to every seed, like the introduction of life into a soul. Know that from now on the Nile flood will come for you every year without fail. Irrigation canals will be full, plants will grow, bowing down under their fruit. The starvation years will be gone.\u2019",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "text": "Then I awoke and drafted this decree pledging to build a temple to Khnum. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "blockquote"
+                    },
+                    {
+                        "content": [
+                            {
+                                "text": "\u2014 Decree for the establishment of a temple by Egyptian pharaoh Djoser, circa 2800 B.C.E.",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "marks": [
+                                    {
+                                        "_": "strong"
+                                    }
+                                ],
+                                "text": "Source 2",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "For as long as anyone can remember, the head boatman used the boats in his charge for his own benefit. The head shepherd milked the sheep in his charge for his own benefit. The temple priest measured out the barley tax collected for the temple to his own advantage. A priest or a nobleman could cut a tree or carry away its fruit from the garden of a humble person without fear of punishment. Such were the practices of the former days. ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "blockquote"
+                    },
+                    {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "But when the god Ningirsu elevated me to the kingship of the city of Lagash, he bid me to restore the divinely decreed order. I carried the god\u2019s instructions faithfully. I removed the head boatman and head shepherd from their posts. I forbade the priests from cheating in the collection of temple taxes. I decreed that no priests or official can force anyone to surrender their property to them. Thus I established freedom for the inhabitants of Lagash. The widow and the orphan were no longer at the mercy of the powerful man. It was for them that I made my agreement with the god Ningirsu.  ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "blockquote"
+                    },
+                    {
+                        "content": [
+                            {
+                                "text": "\u2014 Stone inscription from the Sumerian city of Lagash, commissioned by king Urukagina, circa 2400 B.C.E.",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    }
+                ],
+                "type": "doc"
+            }
+        },
+        "created": "2017-06-21T19:03:41",
+        "id": 547029,
+        "item_id": 547029,
+        "meta": {},
+        "related_content": [],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [],
+        "title": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "Djoser & Urukagina Inscriptions Q14 - Passage",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "doc"
+        },
+        "type": "media/rich_text",
+        "updated": "2018-07-26T23:34:07"
+    },
+    "547030": {
+        "calculator_section": false,
+        "content": {
+            "answer_space": "medium",
+            "optional": true,
+            "prompt": {
+                "content": [
+                    {
+                        "attrs": {
+                            "order": 1
+                        },
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Describe ONE similarity between the notions of kingship expressed in the two passages.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Explain ONE way in which the ideas expressed in the two passages contributed to political centralization in ancient states in Afro-Eurasia.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Explain ONE way in which the passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            }
+                        ],
+                        "type": "lower_alpha_list"
+                    }
+                ],
+                "type": "doc"
+            },
+            "scoring": [
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "1 point for describing one similarity between the notions of kingship expressed in the two passages ",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part A that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "One similarity between notions of kingship expressed in the two passages is that both rulers indicate that their kingship is divinely favored and, in the Sumerian case, directly ordained by the gods.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "One similarity between notions of kingship expressed in the two passages is that both rulers assert a paternalistic claim to power, in which the rulers use their connections to the gods to improve the lives of their subjects.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to describe one similarity between the notions of kingship expressed in the two passages ",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to describe one similarity between the notions of kingship expressed in the two passages ",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part A"
+                },
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "1 point for explaining one way in which the ideas expressed in the two passages contributed to political centralization in ancient states in Afro-Eurasia",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part B that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "The ideas expressed in the passages illustrate centralization in ancient Afro-Eurasian states by revealing how royal authorities utilized the idea of divine right to rule to justify making legal decrees without consulting the wider populace or even the nobility.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "The ideas expressed in the passages illustrate centralization in ancient Afro-Eurasian states because they demonstrate how Afro-Eurasian rulers either used existing elites to consolidate the ruler\u2019s power (as in the case of Djoser\u2019s interactions with the priests of Thoth in Source 1) or limited the influence of elites to consolidate power in the monarch (as in the case of Urukagina\u2019s removal of various officials for alleged misdeeds in Source 2).",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to explain one way in which the ideas expressed in the two passages contributed to political centralization in ancient states in Afro-Eurasia ",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to explain one way in which the ideas expressed in the two passages contributed to political centralization in ancient states in Afro-Eurasia ",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part B"
+                },
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "1 point for explaining one way in which the passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part C that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "The passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia because they illustrate how natural forces and government corruption and abuse could threaten the well-being of the state\u2019s population.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "The passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia because they show that rulers were helpless against natural forces and often had to contend with powerful factions within the state that defied state wishes and tried to amass power and wealth for themselves.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            },
+                            {
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to explain one way in which the passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia ",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to explain one way in which the passages provide evidence of the challenges in maintaining stable states in ancient Afro-Eurasia ",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part C"
+                }
+            ]
+        },
+        "created": "2017-07-20T20:46:09",
+        "id": 547030,
+        "item_id": 547030,
+        "meta": {
+            "uploaded": {
+                "Exam Alignment": "2018-AP-World-History-General-Exam-Alignment-Perfect",
+                "Key Concept": [
+                    "2018-AP-World-History-Framework--18.wohi.3.0.2"
+                ],
+                "Period": [
+                    "2018-AP-World-History-Framework--18.wohi.3.0"
+                ],
+                "Practices and Skills": [
+                    "2018-AP-World-History-Framework--18.wohi.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.1.3"
+                ],
+                "Publicly Available": "2018-AP-World-History-General-Publicly-Available-No",
+                "Question Number": "1 Djoser & Urukagina inscriptions",
+                "Question Type": "2018-AP-World-History-Subject-Question-Type-SAQ",
+                "Section": "2018-AP-World-History-Subject-Section-Unit-1",
+                "Source": "2018-AP-World-History-Subject-Source-New-Unit-Question",
+                "Stimulus Source": "Source 1: adapted from James B. Britchard, ed. \"The Ancient Near East: An Anthology of Texts and Pictures,\" (Princeton: Princeton University Press, 2011), pp, 21-24.; Source 2: adapted from Nels M. Bailkey, ed. Readings in Ancient History: Thought and Experience from Gilgamesh to St. Augustine, (Lexington, Mass.: D.C. Heath and Company, 4th edition, 1992), pp. 18-21.",
+                "Stimulus Type": [
+                    "2018-AP-World-History-Subject-Stimulus-Type-Primary-Source-Text"
+                ],
+                "Thematic Learning Objectives": [
+                    "2018-AP-World-History-Framework--18.wohi.0.1.1",
+                    "2018-AP-World-History-Framework--18.wohi.0.2.0"
+                ],
+                "Unit": [
+                    "2018-AP-World-History-Framework--18.wohi.2.0"
+                ],
+                "Year of Exam": "2018-AP-World-History-Subject-Year-of-Exam-2017"
+            }
+        },
+        "related_content": [
+            {
+                "children": [
+                    {
+                        "description": "CUL-2: Explain how religions, belief systems, philosophies, and ideologies affected political, economic and social developments over time.",
+                        "id": 100321,
+                        "title": "CUL-2"
+                    },
+                    {
+                        "description": "SB-1: Explain how different forms of governance have been constructed and maintained over time.",
+                        "id": 100327,
+                        "title": "SB-1"
+                    }
+                ],
+                "title": "Thematic Learning Objectives"
+            },
+            {
+                "children": [
+                    {
+                        "description": "Practice 1: Analyzing Historical Evidence",
+                        "id": 100349,
+                        "title": "Practice 1"
+                    },
+                    {
+                        "description": "Skill 2: Comparison",
+                        "id": 100352,
+                        "title": "Skill 2"
+                    }
+                ],
+                "title": "Practices and Skills"
+            }
+        ],
+        "resources": [],
+        "rev_id": 2,
+        "status": "published",
+        "subunit_tags": [],
+        "title": "2017 New Unit Question Unit 1 Q1 Djoser & Urukagina inscriptions",
+        "type": "questions/free_response",
+        "updated": "2017-10-26T02:25:37"
+    },
+    "550003": {
+        "calculator_section": false,
+        "content": {
+            "text": {
+                "content": [
+                    {
+                        "content": [
+                            {
+                                "text": "Use the following passage to answer all parts of the question.",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "\u201cThe royal Mauryan palace in the city of Pataliputra* still stands today. The great Mauryan Emperor Ashoka [ruled circa 268\u2013232 b.c.e.] is said to have conjured spirits to pile the giant stones that form the palace walls, raise the gates, and make the elegant sculptures that adorn the building. Certainly no human hands could have accomplished this work. By the side of the stupa of Ashoka, there are two very grand and beautiful Buddhist monasteries containing six or seven hundred monks. These monks\u2019 exemplary behavior and their great scholarly learning are remarkable.\u201d",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "text": "*an ancient city in present-day India which served as the capital of both the Mauryan and the Gupta Empires",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "blockquote"
+                    },
+                    {
+                        "content": [
+                            {
+                                "text": "\u2014 Faxian, Chinese Buddhist monk, ",
+                                "type": "text"
+                            },
+                            {
+                                "marks": [
+                                    {
+                                        "_": "em"
+                                    }
+                                ],
+                                "text": "A Record of Buddhist Kingdoms, ",
+                                "type": "text"
+                            },
+                            {
+                                "text": "travel narrative of his journey to South Asia, written circa 420 c.e.",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    }
+                ],
+                "type": "doc"
+            }
+        },
+        "created": "2017-07-20T19:48:04",
+        "id": 550003,
+        "item_id": 550003,
+        "meta": {},
+        "related_content": [],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [],
+        "title": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "Unit 2: Faxian Pataliputra Buddhism - Passage",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "doc"
+        },
+        "type": "media/rich_text",
+        "updated": "2017-07-28T20:07:02"
+    },
+    "550008": {
+        "calculator_section": false,
+        "content": {
+            "answer_space": "medium",
+            "optional": true,
+            "prompt": {
+                "content": [
+                    {
+                        "attrs": {
+                            "order": 1
+                        },
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Describe ONE way in which Ashoka\u2019s religious policies were reflected in his building projects in Pataliputra, as outlined in the passage.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Explain ONE way in which Faxian\u2019s point of view may have influenced his description of Ashoka\u2019s palace in the passage.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Explain ONE way in which the passage illustrates broader developments in Eurasian religious history during the period circa 600 b.c.e. to circa 600 c.e.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            }
+                        ],
+                        "type": "lower_alpha_list"
+                    }
+                ],
+                "type": "doc"
+            },
+            "scoring": [
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "\u2022 ONE point for describing one way in which Ashoka\u2019s religious policies were reflected in his building projects in Pataliputra, as outlined in the passage",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part A that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Ashoka patronized Buddhism by constructing various pillars and public monuments in Pataliputra and across his empire. The monumental scale of his palace, statues, stupas, and monasteries in the passage reflects both his support for Buddhism and his assertion of his own legitimacy and power.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Ashoka was a Buddhist ruler of the Mauryan Empire who patronized Buddhism and supported its spread across the empire. Ashoka\u2019s religious policies are demonstrated by his building of two \u201cvery grand and beautiful monasteries\u201d for Buddhist monks in his capital of Pataliputra.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            },
+                            {
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to describe one way in which Ashoka\u2019s religious policies were reflected in his building projects in Pataliputra, as outlined in the passage",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part A that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Ashoka patronized Buddhism by constructing various pillars and public monuments in Pataliputra and across his empire. The monumental scale of his palace, statues, stupas, and monasteries in the passage reflects both his support for Buddhism and his assertion of his own legitimacy and power.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Ashoka was a Buddhist ruler of the Mauryan Empire who patronized Buddhism and supported its spread across the empire. Ashoka\u2019s religious policies are demonstrated by his building of two \u201cvery grand and beautiful monasteries\u201d for Buddhist monks in his capital of Pataliputra.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    },
+                                    {
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to describe one way in which Ashoka\u2019s religious policies were reflected in his building projects in Pataliputra, as outlined in the passage",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part A that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Ashoka patronized Buddhism by constructing various pillars and public monuments in Pataliputra and across his empire. The monumental scale of his palace, statues, stupas, and monasteries in the passage reflects both his support for Buddhism and his assertion of his own legitimacy and power.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Ashoka was a Buddhist ruler of the Mauryan Empire who patronized Buddhism and supported its spread across the empire. Ashoka\u2019s religious policies are demonstrated by his building of two \u201cvery grand and beautiful monasteries\u201d for Buddhist monks in his capital of Pataliputra.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    },
+                                    {
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part A"
+                },
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "ONE point for explaining one way in which Faxian\u2019s point of view may have influenced his description of Ashoka\u2019s palace in the passage",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part B that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Faxian was a Buddhist monk from China who traveled to South Asia to learn more about the origins of Buddhism almost 1,000 years after Buddhism\u2019s founding. Because Ashoka was such a revered figure in Buddhist history, Faxian was excessive in his praise of Ashoka\u2019s palace and other buildings. Faxian even indicates that he believed that Ashoka summoned supernatural forces to build his palace.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Because Faxian was both a Buddhist and a foreign visitor to India, his descriptions of Ashoka\u2019s royal palace could cause him to exaggerate its grandeur or ignore the contributions that non-Buddhist rulers might have made to the palace\u2019s features.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            },
+                            {
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to explain one way in which Faxian\u2019s point of view may have influenced his description of Ashoka\u2019s palace in the passage",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part B that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian was a Buddhist monk from China who traveled to South Asia to learn more about the origins of Buddhism almost 1,000 years after Buddhism\u2019s founding. Because Ashoka was such a revered figure in Buddhist history, Faxian was excessive in his praise of Ashoka\u2019s palace and other buildings. Faxian even indicates that he believed that Ashoka summoned supernatural forces to build his palace.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Because Faxian was both a Buddhist and a foreign visitor to India, his descriptions of Ashoka\u2019s royal palace could cause him to exaggerate its grandeur or ignore the contributions that non-Buddhist rulers might have made to the palace\u2019s features.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to explain one way in which Faxian\u2019s point of view may have influenced his description of Ashoka\u2019s palace in the passage",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part B that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian was a Buddhist monk from China who traveled to South Asia to learn more about the origins of Buddhism almost 1,000 years after Buddhism\u2019s founding. Because Ashoka was such a revered figure in Buddhist history, Faxian was excessive in his praise of Ashoka\u2019s palace and other buildings. Faxian even indicates that he believed that Ashoka summoned supernatural forces to build his palace.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Because Faxian was both a Buddhist and a foreign visitor to India, his descriptions of Ashoka\u2019s royal palace could cause him to exaggerate its grandeur or ignore the contributions that non-Buddhist rulers might have made to the palace\u2019s features.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part B"
+                },
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "ONE point for explaining one way in which the passage illustrates broader developments in Eurasian religious history during the period circa 600 b.c.e. to circa 600 c.e.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part C that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Faxian\u2019s description of Buddhist monuments in Pataliputra illustrates the development of religious traditions into large institutional religions, much like Christianity did in the Mediterranean during the period 600 b.c.e. to 600 c.e.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Faxian\u2019s record describing various Buddhist kingdoms in eastern and southern Asia demonstrates the spread of Buddhism and other religions like Christianity or Hinduism far beyond the regions of their origins during the period 600 b.c.e. to 600 c.e.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Faxian\u2019s description of Ashoka\u2019s monuments in his capital city Pataliputra illustrates the development of ancient empires that patronized religious traditions. Imperial states across Afro-Eurasia also patronized religious and cultural traditions such as Confucianism, Christianity, Hinduism, and Zoroastrianism during the period 600 b.c.e. to 600 c.e.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Faxian\u2019s descriptions of the ancient monuments in Pataliputra illustrates the development of monumental religious art and architecture to support and help spread religious traditions. Similar historical and archaeological records demonstrate this process in China, India, Persia, Egypt, Greece, and the Roman Empire during the period 600 b.c.e. to 600 c.e.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to explain one way in which the passage illustrates broader developments in Eurasian religious history during the period circa 600 b.c.e. to circa 600 c.e.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part C that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian\u2019s description of Buddhist monuments in Pataliputra illustrates the development of religious traditions into large institutional religions, much like Christianity did in the Mediterranean during the period 600 b.c.e. to 600 c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian\u2019s record describing various Buddhist kingdoms in eastern and southern Asia demonstrates the spread of Buddhism and other religions like Christianity or Hinduism far beyond the regions of their origins during the period 600 b.c.e. to 600 c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian\u2019s description of Ashoka\u2019s monuments in his capital city Pataliputra illustrates the development of ancient empires that patronized religious traditions. Imperial states across Afro-Eurasia also patronized religious and cultural traditions such as Confucianism, Christianity, Hinduism, and Zoroastrianism during the period 600 b.c.e. to 600 c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian\u2019s descriptions of the ancient monuments in Pataliputra illustrates the development of monumental religious art and architecture to support and help spread religious traditions. Similar historical and archaeological records demonstrate this process in China, India, Persia, Egypt, Greece, and the Roman Empire during the period 600 b.c.e. to 600 c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to explain one way in which the passage illustrates broader developments in Eurasian religious history during the period circa 600 b.c.e. to circa 600 c.e.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part C that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian\u2019s description of Buddhist monuments in Pataliputra illustrates the development of religious traditions into large institutional religions, much like Christianity did in the Mediterranean during the period 600 b.c.e. to 600 c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian\u2019s record describing various Buddhist kingdoms in eastern and southern Asia demonstrates the spread of Buddhism and other religions like Christianity or Hinduism far beyond the regions of their origins during the period 600 b.c.e. to 600 c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian\u2019s description of Ashoka\u2019s monuments in his capital city Pataliputra illustrates the development of ancient empires that patronized religious traditions. Imperial states across Afro-Eurasia also patronized religious and cultural traditions such as Confucianism, Christianity, Hinduism, and Zoroastrianism during the period 600 b.c.e. to 600 c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Faxian\u2019s descriptions of the ancient monuments in Pataliputra illustrates the development of monumental religious art and architecture to support and help spread religious traditions. Similar historical and archaeological records demonstrate this process in China, India, Persia, Egypt, Greece, and the Roman Empire during the period 600 b.c.e. to 600 c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part C"
+                }
+            ]
+        },
+        "created": "2017-07-20T19:53:21",
+        "id": 550008,
+        "item_id": 550008,
+        "meta": {
+            "uploaded": {
+                "Exam Alignment": "2018-AP-World-History-General-Exam-Alignment-Perfect",
+                "Key Concept": [
+                    "2018-AP-World-History-Framework--18.wohi.3.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.3.1.1"
+                ],
+                "Period": [
+                    "2018-AP-World-History-Framework--18.wohi.3.1"
+                ],
+                "Practices and Skills": [
+                    "2018-AP-World-History-Framework--18.wohi.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.1.2"
+                ],
+                "Publicly Available": "2018-AP-World-History-General-Publicly-Available-No",
+                "Question Number": "1 Faxian Pataliputra Buddhism",
+                "Question Type": "2018-AP-World-History-Subject-Question-Type-SAQ",
+                "Section": "2018-AP-World-History-Subject-Section-Unit-2",
+                "Source": "2018-AP-World-History-Subject-Source-New-Unit-Question",
+                "Stimulus Source": "Adapted from James Legge, \"The Travels of Fa-hien: Fahien's Record of Buddhistic Kingdoms,\" (Delhi: Oriental Publishers, 1971), pp. 77-79",
+                "Stimulus Type": [
+                    "2018-AP-World-History-Subject-Stimulus-Type-Primary-Source-Text"
+                ],
+                "Thematic Learning Objectives": [
+                    "2018-AP-World-History-Framework--18.wohi.0.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.0.2.2"
+                ],
+                "Unit": [
+                    "2018-AP-World-History-Framework--18.wohi.2.1"
+                ],
+                "Year of Exam": "2018-AP-World-History-Subject-Year-of-Exam-2017"
+            }
+        },
+        "related_content": [
+            {
+                "children": [
+                    {
+                        "description": "CUL-1: Explain how religions, belief systems, philosophies, and ideologies originated, developed, and spread as a result of expanding communication and exchange networks.",
+                        "id": 100320,
+                        "title": "CUL-1"
+                    },
+                    {
+                        "description": "SB-3: Explain how and why economic, social, cultural, and geographical factors have influenced the processes of state building, expansion, and dissolution.",
+                        "id": 100329,
+                        "title": "SB-3"
+                    }
+                ],
+                "title": "Thematic Learning Objectives"
+            },
+            {
+                "children": [
+                    {
+                        "description": "Practice 1: Analyzing Historical Evidence",
+                        "id": 100349,
+                        "title": "Practice 1"
+                    },
+                    {
+                        "description": "Skill 1: Contextualization",
+                        "id": 100351,
+                        "title": "Skill 1"
+                    }
+                ],
+                "title": "Practices and Skills"
+            }
+        ],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [],
+        "title": "2017 New Unit Question Unit 2 Q1 Faxian Pataliputra Buddhism",
+        "type": "questions/free_response",
+        "updated": "2017-10-26T02:25:57"
+    },
+    "550044": {
+        "calculator_section": false,
+        "content": {
+            "text": {
+                "content": [
+                    {
+                        "content": [
+                            {
+                                "text": "Use the following image to answer all parts of the question that follows.",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "marks": [
+                                    {
+                                        "_": "strong"
+                                    }
+                                ],
+                                "text": "THE ROMAN EMPEROR TRAJAN* (THE FIGURE ON THE RIGHT) PRESENTING AN OFFERING TO THE EGYPTIAN GODDESS HATHOR AND THE GOD HORUS, WALL SCULPTURE ADDED CIRCA 110 c.e. TO AN OLDER EGYPTIAN TEMPLE DEDICATED TO HATHOR, IN DENDERA, EGYPT",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "attrs": {
+                                    "content": {
+                                        "alt": "text...",
+                                        "maxWidth": "400",
+                                        "src": "https://media.academicmerit.com/5c2dbf010ea21ea8b26afd6f987bb719/original.png"
+                                    },
+                                    "type": "media/image"
+                                },
+                                "type": "amItem"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "content": [
+                            {
+                                "text": "*Trajan was emperor from 98 to 117 c.e.",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "type": "doc"
+            }
+        },
+        "created": "2017-07-21T13:57:42",
+        "id": 550044,
+        "item_id": 550044,
+        "meta": {},
+        "related_content": [],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [],
+        "title": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "Unit 2: Emperor Trajan as Pharaoh SAQ - Passage ",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "doc"
+        },
+        "type": "media/rich_text",
+        "updated": "2017-07-28T20:07:33"
+    },
+    "550045": {
+        "calculator_section": false,
+        "content": {
+            "answer_space": "medium",
+            "optional": true,
+            "prompt": {
+                "content": [
+                    {
+                        "attrs": {
+                            "order": 1
+                        },
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Describe the main reason that a Roman emperor in the second century c.e. could commission a building project in Egypt.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Explain ONE way in which the intended audience of the sculpture affected its artistic style.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Explain ONE way in which the image represents broader patterns of religious interactions in the period circa 600 b.c.e. to circa 600 c.e.",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "type": "hard_break"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    }
+                                ],
+                                "type": "list_item"
+                            }
+                        ],
+                        "type": "lower_alpha_list"
+                    }
+                ],
+                "type": "doc"
+            },
+            "scoring": [
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "\u2022 ONE point for describing the main reason that a Roman emperor in the second century c.e. could commission a building project in Egypt",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part A that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "The Roman Empire had ruled Egypt since the first century b.c.e.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "The Roman Empire had reached a height of wealth and prosperity by the second century c.e., and imperial officials could, therefore, afford to commission elaborate and expensive artistic works in its provinces.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to describe the main reason that a Roman emperor in the second century c.e. could commission a building project in Egypt",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part A that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "The Roman Empire had ruled Egypt since the first century b.c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "The Roman Empire had reached a height of wealth and prosperity by the second century c.e., and imperial officials could, therefore, afford to commission elaborate and expensive artistic works in its provinces.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to describe the main reason that a Roman emperor in the second century c.e. could commission a building project in Egypt",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part A that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "The Roman Empire had ruled Egypt since the first century b.c.e.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "The Roman Empire had reached a height of wealth and prosperity by the second century c.e., and imperial officials could, therefore, afford to commission elaborate and expensive artistic works in its provinces.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part A"
+                },
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "\u2022 ONE point for explaining one way in which the intended audience of the sculpture affected its artistic style",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part B that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "Since the wall sculpture was added to a temple dedicated to the Egyptian goddess Hathor, the intended audience was most likely the Egyptian priestly class and upper nobility, and the depiction of Trajan in Egyptian dress would demonstrate that Roman emperors respected Egyptian religious traditions and venerated Egyptian deities.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "The depiction of Trajan presenting offerings to Egyptian gods while wearing Egyptian ceremonial dress would have been intended to increase Roman imperial legitimacy in the eyes of the Egyptian priestly class and the upper nobility.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            },
+                            {
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to explain one way in which the intended audience of the sculpture affected its artistic style",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part B that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Since the wall sculpture was added to a temple dedicated to the Egyptian goddess Hathor, the intended audience was most likely the Egyptian priestly class and upper nobility, and the depiction of Trajan in Egyptian dress would demonstrate that Roman emperors respected Egyptian religious traditions and venerated Egyptian deities.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "The depiction of Trajan presenting offerings to Egyptian gods while wearing Egyptian ceremonial dress would have been intended to increase Roman imperial legitimacy in the eyes of the Egyptian priestly class and the upper nobility.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to explain one way in which the intended audience of the sculpture affected its artistic style",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part B that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "Since the wall sculpture was added to a temple dedicated to the Egyptian goddess Hathor, the intended audience was most likely the Egyptian priestly class and upper nobility, and the depiction of Trajan in Egyptian dress would demonstrate that Roman emperors respected Egyptian religious traditions and venerated Egyptian deities.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            },
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "The depiction of Trajan presenting offerings to Egyptian gods while wearing Egyptian ceremonial dress would have been intended to increase Roman imperial legitimacy in the eyes of the Egyptian priestly class and the upper nobility.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part B"
+                },
+                {
+                    "description": {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "text": "\u2022 ONE point for explaining one way in which the image represents broader patterns of religious interactions in the period circa 600 b.c.e. to circa 600 c.e.",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "marks": [
+                                            {
+                                                "_": "strong"
+                                            }
+                                        ],
+                                        "text": "Examples of responses to part C that would earn credit",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": ":",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "paragraph"
+                            },
+                            {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "text": "The depiction of the Roman emperor Trajan in Egyptian ceremonial dress presenting offerings to Egyptian deities illustrates religious syncretism, a feature that was also prevalent in religious traditions such as Christianity, Buddhism, and Hinduism when they spread in Afro-Eurasia.",
+                                                        "type": "text"
+                                                    }
+                                                ],
+                                                "type": "paragraph"
+                                            }
+                                        ],
+                                        "type": "list_item"
+                                    }
+                                ],
+                                "type": "bullet_list"
+                            },
+                            {
+                                "type": "paragraph"
+                            }
+                        ],
+                        "type": "doc"
+                    },
+                    "scores": [
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A zero point response suggests the student was not able to explain one way in which the image represents broader patterns of religious interactions in the period circa 600 b.c.e. to circa 600 c.e.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part C that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "The depiction of the Roman emperor Trajan in Egyptian ceremonial dress presenting offerings to Egyptian deities illustrates religious syncretism, a feature that was also prevalent in religious traditions such as Christianity, Buddhism, and Hinduism when they spread in Afro-Eurasia.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        },
+                        {
+                            "@feedback": {
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "A full credit response suggests the student was able to explaining one way in which the image represents broader patterns of religious interactions in the period circa 600 b.c.e. to circa 600 c.e.",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "marks": [
+                                                    {
+                                                        "_": "strong"
+                                                    }
+                                                ],
+                                                "text": "Examples of responses to part C that would earn credit",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "text": ":",
+                                                "type": "text"
+                                            }
+                                        ],
+                                        "type": "paragraph"
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "content": [
+                                                    {
+                                                        "content": [
+                                                            {
+                                                                "text": "The depiction of the Roman emperor Trajan in Egyptian ceremonial dress presenting offerings to Egyptian deities illustrates religious syncretism, a feature that was also prevalent in religious traditions such as Christianity, Buddhism, and Hinduism when they spread in Afro-Eurasia.",
+                                                                "type": "text"
+                                                            }
+                                                        ],
+                                                        "type": "paragraph"
+                                                    }
+                                                ],
+                                                "type": "list_item"
+                                            }
+                                        ],
+                                        "type": "bullet_list"
+                                    }
+                                ],
+                                "type": "doc"
+                            }
+                        }
+                    ],
+                    "title": "Part C"
+                }
+            ]
+        },
+        "created": "2017-07-21T13:58:38",
+        "id": 550045,
+        "item_id": 550045,
+        "meta": {
+            "uploaded": {
+                "Exam Alignment": "2018-AP-World-History-General-Exam-Alignment-Perfect",
+                "Key Concept": [
+                    "2018-AP-World-History-Framework--18.wohi.3.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.3.1.1",
+                    "2018-AP-World-History-Framework--18.wohi.3.1.2"
+                ],
+                "Period": [
+                    "2018-AP-World-History-Framework--18.wohi.3.1"
+                ],
+                "Practices and Skills": [
+                    "2018-AP-World-History-Framework--18.wohi.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.1.2"
+                ],
+                "Publicly Available": "2018-AP-World-History-General-Publicly-Available-No",
+                "Question Number": "1 Emperor Trajan as Pharaoh",
+                "Question Type": "2018-AP-World-History-Subject-Question-Type-SAQ",
+                "Section": "2018-AP-World-History-Subject-Section-Unit-2",
+                "Source": "2018-AP-World-History-Subject-Source-New-Unit-Question",
+                "Stimulus Source": "ALAMY image C1XMJK",
+                "Stimulus Type": [
+                    "2018-AP-World-History-Subject-Stimulus-Type-Image-(Cartoon,-Painting,-or-Photo)"
+                ],
+                "Thematic Learning Objectives": [
+                    "2018-AP-World-History-Framework--18.wohi.0.1.0",
+                    "2018-AP-World-History-Framework--18.wohi.0.1.1",
+                    "2018-AP-World-History-Framework--18.wohi.0.1.2",
+                    "2018-AP-World-History-Framework--18.wohi.0.2.2"
+                ],
+                "Unit": [
+                    "2018-AP-World-History-Framework--18.wohi.2.1"
+                ],
+                "Year of Exam": "2018-AP-World-History-Subject-Year-of-Exam-2017"
+            }
+        },
+        "related_content": [
+            {
+                "children": [
+                    {
+                        "description": "CUL-1: Explain how religions, belief systems, philosophies, and ideologies originated, developed, and spread as a result of expanding communication and exchange networks.",
+                        "id": 100320,
+                        "title": "CUL-1"
+                    },
+                    {
+                        "description": "CUL-2: Explain how religions, belief systems, philosophies, and ideologies affected political, economic and social developments over time.",
+                        "id": 100321,
+                        "title": "CUL-2"
+                    },
+                    {
+                        "description": "CUL-3: Explain how cross-cultural interactions resulted in the diffusion of culture, technologies and scientific knowledge.",
+                        "id": 100322,
+                        "title": "CUL-3"
+                    },
+                    {
+                        "description": "SB-3: Explain how and why economic, social, cultural, and geographical factors have influenced the processes of state building, expansion, and dissolution.",
+                        "id": 100329,
+                        "title": "SB-3"
+                    }
+                ],
+                "title": "Thematic Learning Objectives"
+            },
+            {
+                "children": [
+                    {
+                        "description": "Practice 1: Analyzing Historical Evidence",
+                        "id": 100349,
+                        "title": "Practice 1"
+                    },
+                    {
+                        "description": "Skill 1: Contextualization",
+                        "id": 100351,
+                        "title": "Skill 1"
+                    }
+                ],
+                "title": "Practices and Skills"
+            }
+        ],
+        "resources": [],
+        "rev_id": 0,
+        "status": "published",
+        "subunit_tags": [],
+        "title": "2017 New Unit Question Unit 2 Q1 Emperor Trajan as Pharaoh",
+        "type": "questions/free_response",
+        "updated": "2017-10-26T02:25:57"
+    },
+    "564744": {
+        "calculator_section": false,
+        "content": {
+            "items": [
+                {
+                    "questions": [
+                        {
+                            "content": {
+                                "id": 547030
+                            },
+                            "id": 547030,
+                            "type": "special/embed"
+                        }
+                    ],
+                    "stimulus": {
+                        "content": {
+                            "id": 547029
+                        },
+                        "id": 547029,
+                        "type": "special/embed"
+                    },
+                    "type": null
+                },
+                {
+                    "questions": [
+                        {
+                            "content": {
+                                "id": 550008
+                            },
+                            "id": 550008,
+                            "type": "special/embed"
+                        }
+                    ],
+                    "stimulus": {
+                        "content": {
+                            "id": 550003
+                        },
+                        "id": 550003,
+                        "type": "special/embed"
+                    },
+                    "type": null
+                },
+                {
+                    "questions": [
+                        {
+                            "content": {
+                                "id": 550045
+                            },
+                            "id": 550045,
+                            "type": "special/embed"
+                        }
+                    ],
+                    "stimulus": {
+                        "content": {
+                            "id": 550044
+                        },
+                        "id": 550044,
+                        "type": "special/embed"
+                    },
+                    "type": null
+                }
+            ]
+        },
+        "created": "2018-03-20T21:45:41",
+        "id": 564744,
+        "item_id": 564744,
+        "meta": {
+            "embedded_items": [
+                547029,
+                547030,
+                550003,
+                550008,
+                550044,
+                550045
+            ]
+        },
+        "rev_id": 0,
+        "status": "published",
+        "title": "RG MCQ 0320",
+        "type": "composite/quiz",
+        "updated": "2018-03-20T21:45:41"
+    },
+    "_root_id": 564744
+}
