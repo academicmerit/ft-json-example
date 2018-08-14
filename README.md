@@ -1,5 +1,7 @@
 # FT JSON Examples - Learnosity Knowledge Sharing
 
+The repo contains examples of our MCQ and FRQ questions and how they are embedded in a quiz.
+
 ## World History (Needs to be logged in as World History Student)
 
 ### FRQ
